@@ -35,7 +35,7 @@ displayed visually on the map along with some statistics. Then, the next turn be
 until either there are no infected cases left, or a pre-defined stopping condition is reached.
 
 
-How to run:
+<b>How to run:</b>
 Just go ahead and execute the city_pandemic.py file in your python console.
 
 Run tests:
