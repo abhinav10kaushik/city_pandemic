@@ -33,3 +33,10 @@ The main work of the simulation is done in the run turn method on the City class
 the infected cases around the map and generally controlling the spread of the pandemic. Once a turn is complete, it is
 displayed visually on the map along with some statistics. Then, the next turn begins and the whole process repeats,
 until either there are no infected cases left, or a pre-defined stopping condition is reached.
+
+
+How to run:
+Just go ahead and execute the city_pandemic.py file in your python console.
+
+Run tests:
+You can run the tests by running the test file test_city_pandemic.py
